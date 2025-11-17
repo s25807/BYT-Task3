@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut_s25807", "Tut_s25807\Tut_s25807.csproj", "{6AB7154D-8711-42F0-BB82-772CB7690C13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut_s25807.Tests", "Tut_s25807.Tests\Tut_s25807.Tests.csproj", "{E2719C5A-E55B-40B3-88BD-5AB4599D47C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut_Calc_s25807", "Tut_Calc_s25807\Tut_Calc_s25807.csproj", "{6F192A27-6986-4FCC-A705-C612E248E045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AB7154D-8711-42F0-BB82-772CB7690C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB7154D-8711-42F0-BB82-772CB7690C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB7154D-8711-42F0-BB82-772CB7690C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB7154D-8711-42F0-BB82-772CB7690C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2719C5A-E55B-40B3-88BD-5AB4599D47C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2719C5A-E55B-40B3-88BD-5AB4599D47C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2719C5A-E55B-40B3-88BD-5AB4599D47C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2719C5A-E55B-40B3-88BD-5AB4599D47C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F192A27-6986-4FCC-A705-C612E248E045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F192A27-6986-4FCC-A705-C612E248E045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F192A27-6986-4FCC-A705-C612E248E045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F192A27-6986-4FCC-A705-C612E248E045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
