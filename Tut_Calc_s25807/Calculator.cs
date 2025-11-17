@@ -13,7 +13,7 @@ public class Calculator
             case '*':
                 return A * B;
             case '/':
-                if (B == 0) throw new InvalidOperationException("Division by zero is not allowed");
+                if (B == 0) throw new DivideByZeroException("Division by zero is not allowed");
                 return A / B;
             default:
                 throw new ArgumentOutOfRangeException(nameof(Operation), Operation, null);
